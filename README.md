@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Emivalto;Graduando+em+Engenharia+de+Software;Estagiario+na+BB+Consorcios;Java+%7C+Spring+Boot+%7C+React+%7C+Python)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Emivalto;Graduando+em+Engenharia+de+Software;Java+%7C+Spring+Boot+%7C+React+%7C+Python)
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -27,9 +27,17 @@ Construo sistemas full-stack de ponta a ponta, da modelagem do banco de dados à
 
 ### GitHub Stats
 
-![Emivalto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmivaltoJrr&show_icons=true&theme=tokyonight&hide_border=true)
+![Emivalto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmivaltoJrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=EmivaltoJrr&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmivaltoJrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Vega-pages,screemloguin-cadastro,Calendario,fga0242,paradigmas-2026-1,amazon-sales-etl-vizualization,postiz-app)
+
+---
+
+### Atividade recente
+
+![Gráfico de contribuições](https://ghchart.rshah.org/2F80ED/EmivaltoJrr)
 
 ---
 
