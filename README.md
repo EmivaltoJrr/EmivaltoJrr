@@ -29,7 +29,7 @@ Construo sistemas full-stack de ponta a ponta, da modelagem do banco de dados à
 
 ![Emivalto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmivaltoJrr&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmivaltoJrr&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmivaltoJrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Vega-pages,screemloguin-cadastro,Calendario,fga0242,paradigmas-2026-1,amazon-sales-etl-vizualization,postiz-app)
 
 ---
 
